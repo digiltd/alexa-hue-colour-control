@@ -1,0 +1,66 @@
+{
+  "intents": [
+    {
+      
+      "intent": "SendGroupColourValueIntent",
+      "slots": [
+        {
+          "name": "ColourValue",
+          "type": "COLOURS_VALUE"
+        },
+        {
+          "name": "GroupValue",
+          "type": "GROUPS_VALUE"
+        }
+      ]
+    },
+    {
+      
+      "intent": "SendLightColourValueIntent",
+      "slots": [
+        {
+          "name": "ColourValue",
+          "type": "COLOURS_VALUE"
+        },
+        {
+          "name": "LightValue",
+          "type": "LIGHTS_VALUE"
+        }
+      ]
+    },
+    {
+      
+      "intent": "SendGroupBrightnessValueIntent",
+      "slots": [
+        {
+          "name": "BrightnessNumber",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "GroupValue",
+          "type": "GROUPS_VALUE"
+        }
+      ]
+    },
+    {
+      
+      "intent": "SendLightBrightnessValueIntent",
+      "slots": [
+        {
+          "name": "BrightnessNumber",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "LightValue",
+          "type": "LIGHTS_VALUE"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}

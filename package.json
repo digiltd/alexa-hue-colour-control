@@ -1,0 +1,16 @@
+{
+  "name": "hue-colour-control",
+  "version": "0.5.0",
+  "description": "Custom skill to change the colour of Hue lights using colour names",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "digiltd",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.7",
+    "request": "^2.80.0"
+  }
+}

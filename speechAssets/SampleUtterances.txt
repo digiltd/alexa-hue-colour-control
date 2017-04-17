@@ -1,0 +1,21 @@
+SendGroupColourValueIntent change the {GroupValue} colour to {ColourValue}
+SendGroupColourValueIntent change the {GroupValue} to {ColourValue}
+SendGroupColourValueIntent change {GroupValue} to {ColourValue}
+SendGroupColourValueIntent change {GroupValue} colour to {ColourValue}
+SendGroupColourValueIntent set {GroupValue} colour to {ColourValue}
+SendGroupColourValueIntent set {GroupValue} to {ColourValue}
+SendGroupColourValueIntent set the {GroupValue} to {ColourValue}
+
+
+SendLightColourValueIntent change the {LightValue} light colour to {ColourValue}
+SendLightColourValueIntent change the {LightValue} light to {ColourValue}
+SendLightColourValueIntent change {LightValue} light to {ColourValue}
+SendLightColourValueIntent change {LightValue} light colour to {ColourValue}
+SendLightColourValueIntent set {LightValue} light colour to {ColourValue}
+SendLightColourValueIntent set {LightValue} light to {ColourValue}
+SendLightColourValueIntent set the {LightValue} light colour to {ColourValue}
+
+SendGroupBrightnessValueIntent dim the {GroupValue} group to level {BrightnessNumber}
+
+SendLightBrightnessValueIntent dim the {LightValue} light to level {BrightnessNumber}
+
